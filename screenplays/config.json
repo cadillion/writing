@@ -14,7 +14,7 @@
 	"use_dual_dialogue": true,
 	"print_notes": false,
 	"print_header": "",
-	"print_footer": "",
+	"print_footer": "© 2013-2020 | Colton Austin Dillion | colton@infinitesumltd.com",
 	"print_watermark": "",
 	"scenes_numbers": "none",
 	"each_scene_on_new_page": false
